@@ -1,0 +1,13 @@
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\any\BlocksGameModule.deps.json
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\any\BlocksGameModule.dll
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\any\BlocksGameModule.pdb
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.csproj.AssemblyReference.cache
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.AssemblyInfoInputs.cache
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.AssemblyInfo.cs
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.csproj.CoreCompileInputs.cache
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.sourcelink.json
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.dll
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\refint\BlocksGameModule.dll
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.pdb
+C:\Users\Chiji\Projects\Chess Game\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\ref\BlocksGameModule.dll
